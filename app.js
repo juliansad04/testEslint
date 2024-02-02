@@ -5,4 +5,5 @@ if (ww === 'production') {
 } else {
     console.log('test');
 }
-const a =3;
+// const a =3;
+ code sai ne
